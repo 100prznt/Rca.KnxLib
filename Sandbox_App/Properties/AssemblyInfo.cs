@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Rca.KnxLib")]
+[assembly: AssemblyTitle("Sandbox_App")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BOSCH")]
-[assembly: AssemblyProduct("Rca.KnxLib")]
+[assembly: AssemblyProduct("Sandbox_App")]
 [assembly: AssemblyCopyright("Copyright © BOSCH 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
